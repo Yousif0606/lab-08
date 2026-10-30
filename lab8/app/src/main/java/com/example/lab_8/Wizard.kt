@@ -1,6 +1,6 @@
 package com.example.lab_8
 
-// testing CI
+// testing CI workflow
 class Wizard(val name: String, var mana: Int, var spellPower: Int) {
     fun castSpell(spell: String): Int {
         when (spell) {
